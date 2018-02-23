@@ -1,0 +1,202 @@
+[
+   {
+      "host_len" : 12,
+      "fragment" : null,
+      "url_len" : 84,
+      "default_port" : 80,
+      "domain_age_days" : "5621",
+      "tld" : "com",
+      "num_domain_tokens" : 3,
+      "ips" : [
+         {
+            "geo" : "CN",
+            "ip" : "115.236.98.124",
+            "type" : "A"
+         }
+      ],
+      "malicious_url" : 0,
+      "url" : "http://www.oppo.com/?utm_source=WeiBo&amp;utm_medium=OPPO&amp;utm_campaign=DailyFlow",
+      "alexa_rank" : "25523",
+      "query" : "utm_source=WeiBo&amp;utm_medium=OPPO&amp;utm_campaign=DailyFlow",
+      "file_extension" : null,
+      "registered_domain" : "oppo.com",
+      "scheme" : "http",
+      "path" : "/",
+      "path_len" : 1,
+      "port" : 80,
+      "host" : "www.oppo.com",
+      "domain_tokens" : [
+         "www",
+         "oppo",
+         "com"
+      ],
+      "mxhosts" : [
+         {
+            "mxhost" : "mail1.oppo.com",
+            "ips" : [
+               {
+                  "geo" : "CN",
+                  "ip" : "121.12.164.123",
+                  "type" : "A"
+               }
+            ]
+         }
+      ],
+      "path_tokens" : [
+         ""
+      ],
+      "num_path_tokens" : 1
+   },
+   {
+      "host_len" : 29,
+      "fragment" : null,
+      "url_len" : 58,
+      "default_port" : 80,
+      "domain_age_days" : "172",
+      "tld" : "com",
+      "num_domain_tokens" : 3,
+      "ips" : [
+         {
+            "geo" : "NL",
+            "ip" : "5.39.220.76",
+            "type" : "A"
+         }
+      ],
+      "malicious_url" : 1,
+      "url" : "http://googledrive.royal-moments.com/docs/docs/googledocs/",
+      "alexa_rank" : null,
+      "query" : null,
+      "file_extension" : null,
+      "registered_domain" : "royal-moments.com",
+      "scheme" : "http",
+      "path" : "/docs/docs/googledocs/",
+      "path_len" : 22,
+      "port" : 80,
+      "host" : "googledrive.royal-moments.com",
+      "domain_tokens" : [
+         "googledrive",
+         "royal-moments",
+         "com"
+      ],
+      "mxhosts" : [
+         {
+            "mxhost" : "royal-moments.com",
+            "ips" : [
+               {
+                  "geo" : "NL",
+                  "ip" : "5.39.220.76",
+                  "type" : "A"
+               }
+            ]
+         }
+      ],
+      "path_tokens" : [
+         "docs",
+         "docs",
+         "googledocs",
+         ""
+      ],
+      "num_path_tokens" : 4
+   },
+   {
+      "host_len" : 39,
+      "fragment" : null,
+      "url_len" : 53,
+      "default_port" : 80,
+      "domain_age_days" : 9,
+      "tld" : "com",
+      "num_domain_tokens" : 6,
+      "ips" : [
+         {
+            "geo" : "NL",
+            "ip" : "46.21.161.247",
+            "type" : "A"
+         }
+      ],
+      "malicious_url" : 1,
+      "url" : "http://www.coinbase.com.agreement.advicecm.com/wallet",
+      "alexa_rank" : null,
+      "query" : null,
+      "file_extension" : null,
+      "registered_domain" : "advicecm.com",
+      "scheme" : "http",
+      "path" : "/wallet",
+      "path_len" : 7,
+      "port" : 80,
+      "host" : "www.coinbase.com.agreement.advicecm.com",
+      "domain_tokens" : [
+         "www",
+         "coinbase",
+         "com",
+         "agreement",
+         "advicecm",
+         "com"
+      ],
+      "mxhosts" : [
+         {
+            "mxhost" : "ASPMX2.GOOGLEMAIL.com",
+            "ips" : [
+               {
+                  "geo" : "US",
+                  "ip" : "74.125.142.27",
+                  "type" : "A"
+               },
+               {
+                  "geo" : "US",
+                  "ip" : "2607:f8b0:4001:c03:0:0:0:1b",
+                  "type" : "AAAA"
+               }
+            ]
+         },
+         {
+            "mxhost" : "ASPMX.L.GOOGLE.com",
+            "ips" : [
+               {
+                  "geo" : "US",
+                  "ip" : "74.125.129.26",
+                  "type" : "A"
+               },
+               {
+                  "geo" : "US",
+                  "ip" : "2607:f8b0:400e:c02:0:0:0:1a",
+                  "type" : "AAAA"
+               }
+            ]
+         },
+         {
+            "mxhost" : "ALT1.ASPMX.L.GOOGLE.com",
+            "ips" : [
+               {
+                  "geo" : "US",
+                  "ip" : "74.125.142.27",
+                  "type" : "A"
+               },
+               {
+                  "geo" : "US",
+                  "ip" : "2607:f8b0:4001:c03:0:0:0:1a",
+                  "type" : "AAAA"
+               }
+            ]
+         },
+         {
+            "mxhost" : "ALT2.ASPMX.L.GOOGLE.com",
+            "ips" : [
+               {
+                  "geo" : "US",
+                  "ip" : "74.125.137.26",
+                  "type" : "A"
+               },
+               {
+                  "geo" : "US",
+                  "ip" : "2607:f8b0:4002:c01:0:0:0:1b",
+                  "type" : "AAAA"
+               }
+            ]
+         }
+      ],
+      "path_tokens" : [
+         "wallet"
+      ],
+      "num_path_tokens" : 1
+   }
+]
